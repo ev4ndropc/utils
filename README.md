@@ -2,9 +2,10 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <h3 align="center">That's a list of resources I've encountered on my way as a developer:</h3>
-<p align="left">
+
+ <font size="2">
   Illustrations:
-</p>
+</font>
 
 
 <a href="https://undraw.co/illustrations" target="_bank">unDraw</a>
