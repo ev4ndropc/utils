@@ -25,6 +25,15 @@
 * [JSON Viewer](https://github.com/tulios/json-viewer)
 * [Site palette](http://palette.site/)
 
+## React UI Library
+
+* [MUI](https://mui.com/pt/) - MUI provides a robust, customizable, and accessible library of foundational and advanced components, enabling you to build your design system and develop React applications faster.
+
+* [Chakra-ui](https://chakra-ui.com/) - Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+
+* [Ant Design](https://ant.design/) - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
+
+
 ## Web Apps to Increase Productivity
 
 * [Metatags.io](https://metatags.io/) - A tool to debug and generate meta tag code for any website. Preview how your webpage will look on Google, Facebook, Twitter, and more.
