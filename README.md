@@ -49,3 +49,13 @@
 <a href="http://palette.site/" target="_bank">Site palette</a>
 
 
+<p align="left">
+  Sites:
+</p>
+
+<a href="https://metatags.io/" target="_bank">Metatags.io</a>
+<span>A tool to debug and generate meta tag code for any website. Preview how your webpage will look on Google, Facebook, Twitter, and more.</span>
+
+<a href="https://cssgradient.io/gradient-backgrounds/" target="_bank">CSSGradient</a>
+<span>CSS Gradient makes it dead simple to create fresh web gradients. Includes a collection of tools to help you level up your gradient game.</span>
+
