@@ -22,8 +22,8 @@
 *   [Absurd.Design](https://absurd.design/)
 
 ## Extensions
-* [JSON Viewer](https://github.com/tulios/json-viewer)
-* [Site palette](http://palette.site/)
+* [JSON Viewer](https://github.com/tulios/json-viewer) - The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen. It is a Chrome extension for printing JSON and JSONP.
+* [Site palette](http://palette.site/) - A browser extension to generate comprehensive palettes. A must-have tool for designers and frontend developers. Free colour scheme extraction.
 
 ## React UI Library
 
