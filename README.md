@@ -40,7 +40,7 @@
 
 
 
-<p align="left">
+<p align="left" >
   Extensions:
 </p>
 
@@ -49,7 +49,7 @@
 <a href="http://palette.site/" target="_bank">Site palette</a>
 
 
-<p align="left">
+<p align="left" font-size="60">
   Sites:
 </p>
 
