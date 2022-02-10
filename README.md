@@ -77,3 +77,9 @@
 <a href="https://logoipsum.com" target="_bank">Logoipsum</a>
 <br>
 <span>When in a rush to get a placeholder logo, feel free to use Logo Ipsum with tons of available choices and different logo designs fitting every need.</span>
+
+
+<a href="https://animista.net/" target="_bank">Animista</a>
+<br>
+<span>Animista is a great tool for creating custom CSS animations with various effects. Once you created your animation, generate the code and integrate it into your project.</span>
+
