@@ -3,9 +3,9 @@
 
 <h3 align="center">That's a list of resources I've encountered on my way as a developer:</h3>
 
-<font size="4">
+<h3>
   Illustrations:
-</font>
+</h3>
 
 
 <a href="https://undraw.co/illustrations" target="_bank">unDraw</a>
@@ -41,18 +41,18 @@
 
 
 
-<font size="4">
+<h3>
   Extensions:
-</font>
+</h3>
 
 <a href="https://github.com/tulios/json-viewer" target="_bank">JSON Viewer</a>
 
 <a href="http://palette.site/" target="_bank">Site palette</a>
 
 
-<font size="4">
+<h3>
   Sites:
-</font>
+</h3>
 
 <a href="https://metatags.io/" target="_bank">Metatags.io</a>
 <br>
