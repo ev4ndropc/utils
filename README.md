@@ -61,3 +61,18 @@
 <br>
 <span>CSS Gradient makes it dead simple to create fresh web gradients. Includes a collection of tools to help you level up your gradient game.</span>
 
+<a href="https://carbon.now.sh/" target="_bank">Carbon</a>
+<br>
+<span>Create and share beautiful images of your source code. Another great alternative is ray.so.</span>
+
+<a href="https://fontjoy.com/" target="_bank">FontJoy</a>
+<br>
+<span>Fontjoy finds interesting font pairings using the embedding layer of a neural net. Click a button and a unique pairing is served upon our minimal interface.</span>
+
+<a href="https://neumorphism.io/#e0e0e0" target="_bank">Neumorphism.io</a>
+<br>
+<span>Neumorphic shapes look incredible but are difficult to create. This generator makes it easy to create the shapes you’ve envisioned.</span>
+
+<a href="https://logoipsum.com" target="_bank">Logoipsum</a>
+<br>
+<span>When in a rush to get a placeholder logo, feel free to use Logo Ipsum with tons of available choices and different logo designs fitting every need.</span>
