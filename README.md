@@ -3,7 +3,7 @@
 
 <h3 align="center">That's a list of resources I've encountered on my way as a developer:</h3>
 
- <font size="2">
+<font size="4">
   Illustrations:
 </font>
 
@@ -41,18 +41,18 @@
 
 
 
-<p align="left" >
+<font size="4">
   Extensions:
-</p>
+</font>
 
 <a href="https://github.com/tulios/json-viewer" target="_bank">JSON Viewer</a>
 
 <a href="http://palette.site/" target="_bank">Site palette</a>
 
 
-<p align="left" font-size="60">
+<font size="4">
   Sites:
-</p>
+</font>
 
 <a href="https://metatags.io/" target="_bank">Metatags.io</a>
 <br>
