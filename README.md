@@ -33,6 +33,7 @@
 
 * [Ant Design](https://ant.design/) - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
 
+* [NextUI](https://nextui.org/) - Make beautiful websites regardless of your design experience.Beautiful, fast and modern React UI library.
 
 ## Web Apps to Increase Productivity
 
@@ -49,5 +50,9 @@
 * [Logoipsum](https://logoipsum.com/)  - When in a rush to get a placeholder logo, feel free to use Logo Ipsum with tons of available choices and different logo designs fitting every need.
 
 * [Animista](https://animista.net/) - Animista is a great tool for creating custom CSS animations with various effects. Once you created your animation, generate the code and integrate it into your project.
+
+## Others
+
+* [Toools.design](https://www.toools.design/) - A growing archive of 900+ design resources, weekly updated for the community.
 
 ## That's all folks. ✨
