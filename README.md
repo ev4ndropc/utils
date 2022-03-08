@@ -55,4 +55,6 @@
 
 * [Toools.design](https://www.toools.design/) - A growing archive of 900+ design resources, weekly updated for the community.
 
+* [Kod.so](https://kod.so/) - Beautiful Code Screenshots.
+
 ## That's all folks. ✨
