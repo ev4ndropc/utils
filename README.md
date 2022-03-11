@@ -57,4 +57,6 @@
 
 * [Kod.so](https://kod.so/) - Beautiful Code Screenshots.
 
+* [Planet Scale](https://planetscale.com/) - The database for developers. The MySQL-compatible serverless database platform.
+
 ## That's all folks. ✨
