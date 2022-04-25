@@ -60,3 +60,5 @@
 * [Planet Scale](https://planetscale.com/) - The database for developers. The MySQL-compatible serverless database platform.
 
 ## That's all folks. ✨
+
+<!-- choco install lightshot winrar winscp nodejs-lts lively telegram whatsapp googlechrome yarn vcredist-all insomnia-rest-api-client vscode python3 github-desktop adblockpluschrome -->
