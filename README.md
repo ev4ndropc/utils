@@ -59,6 +59,8 @@
 
 * [Planet Scale](https://planetscale.com/) - The database for developers. The MySQL-compatible serverless database platform.
 
+* [Mesh Gradient](https://meshgradient.in/) - Generate beautiful mesh gradients
+
 ## That's all folks. ✨
 
-<!-- choco install lightshot winrar winscp nodejs-lts lively telegram whatsapp googlechrome yarn vcredist-all insomnia-rest-api-client vscode python3 github-desktop adblockpluschrome -->
+<!-- choco install lightshot winrar winscp nodejs-lts lively telegram whatsapp googlechrome yarn vcredist-all insomnia-rest-api-client vscode python3 github-desktop firecode  -->
