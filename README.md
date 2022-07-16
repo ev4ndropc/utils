@@ -51,6 +51,15 @@
 
 * [Animista](https://animista.net/) - Animista is a great tool for creating custom CSS animations with various effects. Once you created your animation, generate the code and integrate it into your project.
 
+## Lottie files
+
+* [Lottieflow](https://www.finsweet.com/lottieflow/) - Downloadable Lottie files that work like magic on your Webflow site.
+
+* [Lordicon](https://lordicon.com/icons) - Access 6,500+ Animated Icons
+
+* [Motion Elements](https://motionelements.com) - Mercado libre de derechos en  Asia para medios de stock de todo el mundo
+
+
 ## Others
 
 * [Toools.design](https://www.toools.design/) - A growing archive of 900+ design resources, weekly updated for the community.
