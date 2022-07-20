@@ -62,6 +62,8 @@
 
 ## Others
 
+* [ifttt](https://ifttt.com/) - Every thing works better together Quickly and easily automate your favorite apps and devices.
+
 * [Copy.Ai](https://www.copy.ai/) - Say ‘goodbye’ to the blank page for good
 
 * [Toools.design](https://www.toools.design/) - A growing archive of 900+ design resources, weekly updated for the community.
