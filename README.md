@@ -76,4 +76,4 @@
 
 ## That's all folks. ✨
 
-<!-- choco install lightshot winrar winscp nodejs-lts lively telegram whatsapp googlechrome yarn vcredist-all insomnia-rest-api-client vscode python3 github-desktop firecode  -->
+<!-- choco install lightshot winrar winscp nodejs-lts lively telegram whatsapp googlechrome yarn vcredist-all insomnia-rest-api-client vscode python3 github-desktop firacode winrar docker-desktop freedownloadmanager -->
